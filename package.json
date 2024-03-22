@@ -1,0 +1,19 @@
+{
+  "name": "converttopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-unoconv": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "libreoffice": "^0.4.5",
+    "libreoffice-convert": "^1.5.1",
+    "mammoth": "^1.7.1",
+    "path": "^0.12.7"
+  }
+}
